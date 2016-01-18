@@ -7,5 +7,3 @@ var person = {
 var sayHello = function(person) {
   console.log('Hello ' + person.name + '!');
 };
-
-//Write a below function that console logs the email property of person
