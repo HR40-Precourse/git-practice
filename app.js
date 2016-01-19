@@ -7,3 +7,6 @@ var randomPerson = {
 var sayHello = function(person) {
   console.log('Hello ' + person.name + '!');
 };
+var printEmail = function(person) {
+  console.log('email: ' + person.email);
+};
