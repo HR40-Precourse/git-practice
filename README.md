@@ -14,7 +14,7 @@ This is a very simple tutorial that gives new Hack Reactor students who are unfa
   - (technically this pulls changes from a branch on the upstream remote called 'changes', most of the time you'd use git pull upstream master to pull from the master branch)
   - Notice how app.js has changed
 8. Let's imagine that your pair leaves for a meeting and you want to continue working on the repo on your own, but don't want to overwrite anything. This is when you would cut your own branch (git checkout -b <branch name>)
-9. In the new branch, change the name property to another name.
+9. In the new branch, change the name property to another name. Add and commit your changes. 
 10. Now your pair is back so you'll want to checkout your local master again. Make another change to the name property of randomPerson that is different from the name you used in the other branch.
 11. Commit and push your changes back to the origin master
 12. Let's say you want to continue doing more work on your again, but you want the new changes that you made from the origin master that your pair and you were working on together. Check out your own branch (git checkout <branch name>) and then pull from the origin master (git pull origin master).
