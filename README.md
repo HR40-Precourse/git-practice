@@ -5,7 +5,7 @@ This is a very simple tutorial that gives new Hack Reactor students who are unfa
 1. Fork this repo
 2. Clone your fork of this repo (git clone <GITHUB_URL_OF_YOUR_FORK>)
 3. Add this repo as an upstream remote (git remote add upstream https://github.com/HR40-Precourse/git-practice.git)
-4. Add a remote to your pair's repo (git remote add <pairsName> https://github.com/<PAIRS_GH_HANDLE>/git-practice.git)
+4. Add a remote to your pair's repo (git remote add pairsName https://github.com/pairs-github-handle/git-practice.git)
   - you can always push work to your pair's repo with: git push <pairsName> master (or <branch name>)
 5. Type git remote -v to see all the remote repos to which you have reference
 6. Take a look at app.js
